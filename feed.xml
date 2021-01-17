@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>@cccp-education</title>
+    <link>https://cccp-education.github.io</link>
+    <atom:link href="https://cccp-education.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <description>cccp.education feeds</description>
+    <language>fr-fr</language>
+    <pubDate>dim., 17 janv. 2021 23:02:49 +0100</pubDate>
+    <lastBuildDate>dim., 17 janv. 2021 23:02:49 +0100</lastBuildDate>
+
+    <item>
+      <title>Un ticket test</title>
+      <link>https://cccp-education.github.io/blog/2021/0000_draft_post.html</link>
+      <pubDate>jeu., 31 déc. 2020 00:00:00 +0100</pubDate>
+      <guid isPermaLink="false">blog/2021/0000_draft_post.html</guid>
+      	<description>
+	&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;_liens_cccp_educations_blog&quot;&gt;Liens: &lt;a href=&quot;https://cccp-education.github.io/&quot;&gt;cccp-education&amp;#8217;s blog&lt;/a&gt;&lt;/h4&gt;
+
+&lt;/div&gt;
+	</description>
+    </item>
+
+  </channel> 
+</rss>
